@@ -143,7 +143,7 @@ Running: /usr/bin/python3 -u /home/linko/aae5303_workspace/PolyU-AAE5303-env-smo
 **Screenshot:**  
 _[Include one screenshot showing both tests passing]_
 
-![Python Tests Passing](2.png)
+![Python Tests Passing](3.png 4.png)
 ---
 
 ## 3. ROS 2 Workspace Check
