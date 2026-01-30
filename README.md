@@ -145,7 +145,7 @@ _[Include one screenshot showing both tests passing]_
 
 ![Python Tests Passing](3.png)
 
-![Python Tests](4.png)
+![Python Tests](5.png)
 
 
 ---
@@ -221,7 +221,7 @@ ros2 launch env_check_pkg env_check.launch.py
 **Screenshot:**  
 _[Include one screenshot showing talker + listener running]_
 
-![Talker and Listener Running]()
+![Talker and Listener Running](4.png)
 
 ---
 
